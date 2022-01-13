@@ -17,7 +17,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][https://utdgss2016.wixsite.com/utdgss/gegvl][contributors-shield]
+[![Contributors][https://utdgss2016.wixsite.com/utdgss/gegvl][contributors-shield]]
 [![Forks][forks-shield]][https://utdgss2016.wixsite.com/utdgss/gegvl]
 [![Stargazers][stars-shield]][https://utdgss2016.wixsite.com/utdgss/gegvl]
 [![Issues][issues-shield]][https://utdgss2016.wixsite.com/utdgss/gegvl]
