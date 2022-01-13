@@ -1,6 +1,3 @@
-# GEGVL-source
-
-
 
 <!-- PROJECT LOGO -->
 <br />
