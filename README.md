@@ -165,7 +165,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Ning Wang - [@UtdNing](https://twitter.com/UtdNing) - Ning.Wang@utdallas.edu <br/>
-Jack, Katie, Somie <br/>
+Jack, Our Leader of Computer Science Part of GEGVL, Please finish the info! Jack<br/>
+Katie, Somie <br/>
 Project Link: [https://github.com/Ning-utdgss/GEGVL-source]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
