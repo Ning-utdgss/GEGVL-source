@@ -29,8 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://utdgss2016.wixsite.com/utdgss/gegvle">
+    <img src="https://static.wixstatic.com/media/899be9_f342f717c6e344a294c363c87da6c185~mv2.png/v1/fill/w_62,h_60,al_c,q_85,usm_0.66_1.00_0.01/899be9_f342f717c6e344a294c363c87da6c185~mv2.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
