@@ -166,8 +166,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@UtdNing](https://twitter.com/UtdNing) - email@email_client.com
-
+Ning Wang - [@UtdNing](https://twitter.com/UtdNing) - Ning.Wang@utdallas.edu <br/>
+Jack, Katie, Somie
 Project Link: [https://github.com/Ning-utdgss/GEGVL-source]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
