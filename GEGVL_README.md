@@ -33,10 +33,10 @@
     <img src="https://static.wixstatic.com/media/899be9_f342f717c6e344a294c363c87da6c185~mv2.png/v1/fill/w_62,h_60,al_c,q_85,usm_0.66_1.00_0.01/899be9_f342f717c6e344a294c363c87da6c185~mv2.webp" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">GEGVL: Google Earth Based Geoscience Video Library </h3>
 
   <p align="center">
-    project_description
+    GEGVL includes place- & events- based geoscience educational videos which have been made or reviewed by geoscientists or/and domain experts. There are two versions of the GEGVL so far, for STAAR and General. The GEGVL-STAAR is for middle school science teachers in the Texas area. The GEGVL (General) is mostly for 2YC, 4YU, and above. We will continue updating the GEGVL and upload them to this webpage. Please feel free to contact us if you are interested in developing GEGVL or you want to become a video provider. It can be animations, simulations and any other visual format! Thanks!
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
