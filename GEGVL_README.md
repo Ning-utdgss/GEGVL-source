@@ -38,14 +38,14 @@
   <p align="center">
     GEGVL includes place- & events- based geoscience educational videos which have been made or reviewed by geoscientists or/and domain experts. There are two versions of the GEGVL so far, for STAAR and General. The GEGVL-STAAR is for middle school science teachers in the Texas area. The GEGVL (General) is mostly for 2YC, 4YU, and above. We will continue updating the GEGVL and upload them to this webpage. Please feel free to contact us if you are interested in developing GEGVL or you want to become a video provider. It can be animations, simulations and any other visual format! Thanks!
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://utdgss2016.wixsite.com/utdgss/gegvl"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://utdgss2016.wixsite.com/utdgss/gegvl">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://utdgss2016.wixsite.com/utdgss/gegvl">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://utdgss2016.wixsite.com/utdgss/gegvl">Request Feature</a>
   </p>
 </div>
 
